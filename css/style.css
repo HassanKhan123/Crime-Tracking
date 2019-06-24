@@ -1,0 +1,32 @@
+table{
+    text-align: center;
+    opacity: 0.7;
+}
+body{
+    background-image: url('../img/black-and-white-black-and-white-chairs-2157191.jpg');
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    background: black;
+    color: white;
+    opacity: 0.7;
+}
+select{
+    margin-bottom: 20px;
+    
+    
+}
+h3{
+    margin-left: 20px;
+    color:white;
+}
+
+#search{
+    display: block;
+    max-width: 100px;
+    margin: auto;
+    margin-bottom:20px;
+
+    opacity: 0.7;
+}
